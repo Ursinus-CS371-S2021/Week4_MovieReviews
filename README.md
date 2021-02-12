@@ -1,6 +1,6 @@
-# HW6_MovieReviews
+# Movie Reviews
 
-Please visit <a href = "http://www.ctralie.com/Teaching/IDS301_S2020/Assignments/HW6_MovieReviews/">this link</a> for more information.
+Please visit <a href = "http://www.ctralie.com/Teaching/CS371_S2021/ClassExercises/Week4/Week4_MovieReviews/">this link</a> for more information.
 
 ## Data
 
