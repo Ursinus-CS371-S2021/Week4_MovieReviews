@@ -37,7 +37,7 @@ def get_reviews():
             "This is awesome!"
             "This movie bites"
         Then all_reviews would look like
-        [ ["this", "is", "awesome"], ["this", "movie", "bites] ]
+        [ ["this", "is", "awesome"], ["this", "movie", "bites"] ]
     
     labels: ndarray(N)
         A parallel array holding whether each review is positive (1) or negative(0)
